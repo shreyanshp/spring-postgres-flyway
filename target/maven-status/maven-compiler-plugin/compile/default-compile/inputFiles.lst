@@ -1,1 +1,7 @@
+/Users/shreyansh.pandey/git/postgres/src/main/java/com/pandey/shrey/postgres/entities/Teacher.java
+/Users/shreyansh.pandey/git/postgres/src/main/java/com/pandey/shrey/postgres/dao/TeacherDAO.java
+/Users/shreyansh.pandey/git/postgres/src/main/java/com/pandey/shrey/postgres/dao/CourseDAO.java
+/Users/shreyansh.pandey/git/postgres/src/main/java/com/pandey/shrey/postgres/entities/Course.java
+/Users/shreyansh.pandey/git/postgres/src/main/java/com/pandey/shrey/postgres/entities/CourseController.java
 /Users/shreyansh.pandey/git/postgres/src/main/java/com/pandey/shrey/postgres/PostgresApplication.java
+/Users/shreyansh.pandey/git/postgres/src/main/java/com/pandey/shrey/postgres/entities/EntityWithUUID.java

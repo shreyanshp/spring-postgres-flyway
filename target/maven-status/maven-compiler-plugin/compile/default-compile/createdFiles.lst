@@ -1,5 +1,6 @@
 com/pandey/shrey/postgres/PostgresApplication.class
 com/pandey/shrey/postgres/entities/EntityWithUUID.class
+com/pandey/shrey/postgres/entities/CourseController.class
 com/pandey/shrey/postgres/entities/Teacher.class
 com/pandey/shrey/postgres/dao/CourseDAO.class
 com/pandey/shrey/postgres/dao/TeacherDAO.class
